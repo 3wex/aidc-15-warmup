@@ -1,10 +1,4 @@
-
 Thamer Alotaibi, Learn
-
-=======
-Abdullah, Success 
-
-=======
-Amer, learn 
-Abdullah, Success 
+Abdullah, Success
+Amer, learn
 
